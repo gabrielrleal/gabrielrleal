@@ -8,3 +8,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielxleal@gmail.com)](mailto:gabrielxleal@gmail.com)
 
 * Majoring in Information Systems at Federal University of Paraíba
+* Passionate Learner
