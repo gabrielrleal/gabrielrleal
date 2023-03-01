@@ -11,6 +11,6 @@
  
 
 
-📚  Graduating in <b>Information Systems</b>
+📚  Graduate in <b>Information Systems</b>
 
 💻 Passionate <b>Learner</b>
