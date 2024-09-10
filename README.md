@@ -10,6 +10,6 @@
  
 
 
-📚  Graduate in <b>Information Systems</b>
+📚  Bachelor in <b>Information Systems</b>
 
 💻  <b>FULLSTACK</b>
