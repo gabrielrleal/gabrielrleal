@@ -9,7 +9,3 @@
 [![Generic badge](https://img.shields.io/badge/-Medium-4c4c4c?style=flat-square&logo=Medium&logoColor=white)](https://gabriel-leal.medium.com/)
  
 
-
-📚  Bachelor in <b>Information Systems</b>
-
-💻  <b>FULLSTACK</b>
